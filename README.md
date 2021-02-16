@@ -6,7 +6,8 @@ Repositorio del curso de Datos Masivos I de la Licenciatura en Ciencia de Datos 
 - Miércoles de 14:00 a 16:00 PM
 - Jueves de 10:00 a 11:30 AM
 
-## Plataforma
+## Plataformas
+- Zoom (https://zoom.us/)
 - Google Classroom: [4n32mrx](https://classroom.google.com/c/Mjc0NjAzMjk4ODgy?cjc=4n32mrx)
 
 ## Temario
