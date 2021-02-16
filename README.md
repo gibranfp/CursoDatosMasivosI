@@ -1,5 +1,5 @@
 # Datos Masivos I
-Repositorio del curso de Datos Masivos I de la Licenciatura en Ciencia de Datos del IIMAS.
+Repositorio del curso de Datos Masivos I de la Licenciatura en Ciencia de Datos del IIMAS. El curso aborda los algoritmos y herramientas computacionales básicas para búsqueda y análisis en conjuntos de datos masivos.	
 
 ## Horario
 - Martes de 10:00 a 11:30 AM
@@ -47,3 +47,14 @@ Repositorio del curso de Datos Masivos I de la Licenciatura en Ciencia de Datos 
   - Ordenamiento
   - Búsqueda
   - Estructuras de datos estáticos y dinámicos
+  
+## Criterios de evaluación
+- Proyectos (60%)
+- Tareas (20%)
+- Exámenes (10%)
+- Participación (10%)
+
+## Ambiente de programación
+En este curso las herramientas de programación que se emplearán son las siguientes:
+- [Colab](https://colab.research.google.com/)
+- [AWS Educate](https://aws.amazon.com/es/education/awseducate/)
