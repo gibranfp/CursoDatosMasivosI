@@ -51,7 +51,7 @@ Repositorio del curso de Datos Masivos I de la Licenciatura en Ciencia de Datos 
   
  ## Bibliografía
  - Jure Leskovec, Anand Rajaraman and Jeffrey D. Ullman. Mining of Massive Datasets. Second Edition. Cambridge University Press, 2014. [Liga](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
-  - Charu C. Aggarwal. Data Mining. Springer International Publishing, 2015.[Liga](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
+  - Charu C. Aggarwal. Data Mining. Springer International Publishing, 2015. [Liga](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
   - Jeffrey Vitter. Algorithms and Data Structures for External Memory. Now Foundations and Trends, 2008. [Liga](https://www.nowpublishers.com/article/Details/TCS-014)
 
 ## Criterios de evaluación
@@ -63,4 +63,4 @@ Repositorio del curso de Datos Masivos I de la Licenciatura en Ciencia de Datos 
 ## Ambiente de programación
 En este curso las herramientas de programación que se emplearán son las siguientes:
 - [Colab](https://colab.research.google.com/)
-- [AWS Educate](https://aws.amazon.com/es/education/awseducate/)
+- [Databricks](https://community.cloud.databricks.com/login.html)
